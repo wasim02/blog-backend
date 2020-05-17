@@ -8,5 +8,5 @@ app.use('/blogs', blogRouter);
 
 app.listen(4400, () => console.log('Server running on port 4400'));
 
-// Routing HTTP Requests
+
 
